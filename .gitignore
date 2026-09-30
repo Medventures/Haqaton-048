@@ -8,3 +8,8 @@ __pycache__/
 *.py[cod]
 .DS_Store
 Thumbs.db
+*.db
+*.sqlite
+*.sqlite3
+*.pem
+*.key
